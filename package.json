@@ -2,7 +2,7 @@
   "name": "stockticker",
   "version": "1.0.0",
   "description": "stock ticker homework assignment ",
-  "main": "webapp.js.js",
+  "main": "webapp.js",
   "scripts": {
   "start": "node webapp.js"
 },
