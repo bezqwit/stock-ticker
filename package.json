@@ -2,7 +2,7 @@
   "dependencies": {
     "mongodb": "4.0"
   },
-  "name": "stockticker",
+  "name": "project-stock-ticker",
   "version": "1.0.0",
   "description": "stock ticker homework assignment ",
   "main": "webapp.js",
