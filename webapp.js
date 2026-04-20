@@ -3,7 +3,7 @@ var url = require('url');
 var mongo = require('mongodb');
 var MongoClient = mongo.MongoClient;
 
-var connectionString = "mongodb+srv://dbuser1:db123@cluster0.dzwfkfe.mongodb.net/?appName=Cluster0";
+var connectionString = process.env.MONGODB_URL;
 
 
 var port = process.env.PORT || 8080;
